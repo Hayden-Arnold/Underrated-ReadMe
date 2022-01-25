@@ -43,7 +43,7 @@
 
 ## ERD Model
 
-![alt text](https://i.imgur.com/lUPZKL7.jpg)
+![alt text](https://i.imgur.com/k0RdA5C.png)
 
 > Link(https://www.figma.com/file/wMxmsXfc7j6EtkS4kzVEmt/Untitled)
 
