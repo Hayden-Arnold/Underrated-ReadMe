@@ -1,25 +1,19 @@
 ## Overview of My Project!
 
-> In this project I will be using a backend database to display data in relation to underrated songs people have listened to. The backend, front end and all aspects of the project will be set up step by step in a full stack experience.
+> My project's name is Underrated. It is an app about being able to share underrated songs. You are able to create an account and sign in which allows you to post about songs that you have heard and to be able to share them with other people. With it’s easy style anyone can use Underrated.
 
 ## MVP
 
-> The Underrated MVP will be able to meet requirements set by this project. These requirements are as follows:
-
-- A fully working server using full CRUD, authenticity and at least 2 entities with a parent/child relationship.
-- A working react app with at least 8 components and the ability to show knowledge of react using it’s full crud actions.
-- Be styled in CSS using only grid and media queries.
-- Deployed using Surge and or Netlify.
-- Have a good code quality.
-- Proper source control (Github).
-- And to be able to fully pitch my idea.
+- Database using PostgreSQL.
+- Front-End in React.
+- User authentication.
+- REST JSON API in Django.
 
 ## Post MVP
 
-> For my post mvp I would like to add:
-
-- images to the backend.
-- update my css to make more complex cards.
+- Add images to the backend.
+- Update my css to make more complex cards.
+- A search bar.
 
 ## Goals
 
@@ -49,7 +43,7 @@
 
 ## ERD Model
 
-![alt text](https://i.imgur.com/wQVDzGg.png)
+![alt text](https://i.imgur.com/lUPZKL7.jpg)
 
 > Link(https://www.figma.com/file/wMxmsXfc7j6EtkS4kzVEmt/Untitled)
 
